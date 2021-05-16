@@ -124,27 +124,27 @@ main {
 }
 
 .main-image-one {
-  background-image: url('http://katemunday.com/wp-content/uploads/2021/04/Full-comp-0-00-00-00-360x260.jpg');
+  background-image: url('./images/fareshare.jpeg');
 }
 
 .main-image-two {
-  background-image: url('http://katemunday.com/wp-content/uploads/2021/02/Screenshot-2021-02-07-163520-360x260.jpg');
+  background-image: url('./images/panorama.jpeg');
 }
 
 .main-image-three {
-  background-image: url('http://katemunday.com/wp-content/uploads/2019/02/Solace_Hallway_02-360x260.jpg');
+  background-image: url('./images/solace.jpeg');
 }
 
 .main-image-four {
-  background-image: url('http://katemunday.com/wp-content/uploads/2021/04/The-wonderful-Tate-small-1024x768.jpg');
+  background-image: url('./images/tate.jpeg');
 }
 
 .main-image-five {
-  background-image: url('http://katemunday.com/wp-content/uploads/2021/04/Parkland-walk-smaller-728x1024.jpg');
+  background-image: url('./images/parkland-walk.jpeg');
 }
 
 .main-image-six {
-  background-image: url('http://katemunday.com/wp-content/uploads/2021/04/Untitled_Artwork-4.jpg');
+  background-image: url('./images/house.jpeg');
 }
 
 footer {
